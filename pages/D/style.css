@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    
+}
+main {
+    h1 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+#cards {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
