@@ -5,6 +5,7 @@
 }
 
 body {
+    max-width: 100%;
     display: flex;
     justify-content: center;
     
@@ -18,7 +19,20 @@ main {
 
 #cards {
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
     gap: 50px;
+
+    .card {
+        background-color: lavender;
+        border-width: 2px;
+        border-radius: 30px;
+        border-style:solid;
+        padding: 20px;
+        height: max-content;
+
+        img {
+            border-radius: 20px;
+        }
+    }
 }
 
