@@ -25,6 +25,3 @@ O objetivo é proporcionar um ambiente leve e motivador, onde cada aluno avança
 4. **Colecione recompensas** — use as conquistas para personalizar seu avatar ou liberar novos modos de jogo.  
 
 ---
-
-## 📂 Estrutura do projeto  
-
