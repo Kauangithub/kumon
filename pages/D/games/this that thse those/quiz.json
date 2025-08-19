@@ -1,6 +1,7 @@
 {
     "questions" : [
-        {"question_1" : "____ is not mine", "answer" : "That"},
-        {"question_2" : "____ are your ties", "answer" : "These"}
+        {"question" : "____ is not mine", "answer" : "That"},
+        {"question" : "____ are your ties", "answer" : "These"},
+        {"question" : "Are ____ your shoes?", "answer": "Those"}
     ]
 }
